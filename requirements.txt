@@ -1,0 +1,11 @@
+langchain
+langchain-ollama
+numpy
+scipy
+pandas
+seaborn
+matplotlib
+scikit-learn
+
+python-dotenv
+google-generativeai
