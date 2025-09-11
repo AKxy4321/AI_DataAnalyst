@@ -64,6 +64,3 @@ Generates visual reports based on analysis results:
 - Ensure data files are in supported formats (.csv, .json, .xlsx).
 - For large datasets, consider performance optimizations.
 - AI-generated summaries are based on analysis results and user prompts.
-
-
-Feel free to adjust any sections according to your specific needs or project details!
